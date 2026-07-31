@@ -6,3 +6,6 @@ A multi-agent system that monitors a local directory for raw data and produces s
 * Runnable on macOS
 * Minimal permissions (security)
 * Multiple agents (sub-agents)
+
+## Dev Setup
+* Python 3.13 (managed via `uv`)
